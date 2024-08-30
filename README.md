@@ -1,2 +1,13 @@
-# BitTorrentTrackersList
-This is a public bittorrent trackers list, auto updated every ten minutes.
+# BitTorrentTackersList
+
+[![Trackers.Run](https://img.shields.io/static/v1?label=TR&message=Trackers.Run&style=flat-square&labelColor=555555&color=83AD98)](https://trackers.run)
+
+This is a public bittorrent trackers list, auto updated every 10 minutes.
+
+The goal for this project is to collect trackers from web, and test them automatically and find out stable trackers, share them to everybody.
+
+## How to Use?
+
+*Please Visit [https://Trackers.Run](https://trackers.run) for details*
+
+
