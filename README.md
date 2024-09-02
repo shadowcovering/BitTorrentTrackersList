@@ -12,4 +12,4 @@ The goal for this project is to collect trackers from web, and test them automat
 
 **Below is a screenshot for preview**
 
-![Trackers.Run](https://raw.githubusercontent.com/shadowcovering/BitTorrentTrackersList/master/preview.png)
+[![Trackers.Run](https://raw.githubusercontent.com/shadowcovering/BitTorrentTrackersList/master/preview.png)](https://trackers.run)
