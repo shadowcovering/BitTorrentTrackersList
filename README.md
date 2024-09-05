@@ -4,7 +4,7 @@
 [![GitHub License](https://img.shields.io/github/license/shadowcovering/BitTorrentTrackersList?labelColor=555555&color=83AD98)](https://raw.githubusercontent.com/shadowcovering/BitTorrentTrackersList/master/LICENSE)
 
 
-This is a public bittorrent trackers list, auto updated every 10 minutes.
+❤️This is a public bittorrent trackers list, auto updated every 10 minutes.
 
 The goal for this project is to collect trackers from web, and test them automatically and find out stable trackers, share them to everybody.
 
