@@ -13,7 +13,7 @@ The goal for this project is to collect trackers from web, and test them automat
 
 **Please Visit [https://Trackers.Run](https://trackers.run) for details.**
 
-## 2024-9-7 Update Log
+## 2024-9-8 Update Log
 English version of User Manual was created, visit [https://trackers.run/about](https://trackers.run/about) for details. Other translation is under developing, if you can offer some help, please contact me.
 ## 2024-9-7 Update Log
 Direct txt File Link for trackers will be auto generated, according to the configuration by yourself.
