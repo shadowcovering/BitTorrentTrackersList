@@ -12,7 +12,8 @@ The goal for this project is to collect trackers from web, and test them automat
 ## How to Use?
 
 **Please Visit [https://Trackers.Run](https://trackers.run) for details.**
-
+## 2024-9-24 Update Log
+Optimize checking functions, showing result in 98% stablity of recent 1000 times check and accessible currently.
 ## 2024-9-8 Update Log
 English version of User Manual was created, visit [https://trackers.run/about](https://trackers.run/about) for details. Other translation is under developing, if you can offer some help, please contact me.
 ## 2024-9-7 Update Log
